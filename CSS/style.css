@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css?family=Inria+Serif|Roboto&display=swap");
+
+@import url("Components/container.css");
+
+@import url("Components/avatar.css");
+
+@import url("Components/buttonreal.css");
+
+@import url("Components/banner.css");
+
+@import url("Components/cards.css");
+
+@import url("Components/card.css");
+body{
+	font-family : 'Inria', serif;
+	font-size: 18px;
+}
+h1, h2, h3 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+a {
+	text-decoration: none;
+}
